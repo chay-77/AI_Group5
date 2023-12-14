@@ -1,0 +1,30 @@
+Requirements:
+
+- Python 3.x
+- Required Python packages:
+	pandas 
+	numpy
+	re
+	warnings
+	sklearn.model_selection  
+	TfidfVectorizer
+	CountVectorizer
+	sklearn.naive_bayes  
+	MultinomialNB
+	sklearn.linear_model  
+	LogisticRegression
+	sklearn import 
+	svm
+	metrics
+	sklearn.tree import 
+	DecisionTreeClassifier
+	sklearn.ensemble 
+	RandomForestClassifier
+	nltk
+	joblib
+	nltk.corpus 
+	stopwords
+	nltk.stem.porter
+	PorterStemmer
+	string
+- YouTube Data API key
